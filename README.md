@@ -1,4 +1,6 @@
-# Mr. Ranedeer: Your personalized AI Tutor!
+# Mr. Ranedeer: Your personalized AI Tutor! Now in CSV!
+
+This version is just a conversion of the original Mr. Ranedeer to CSV format with a token reduction of ~40%. (Further testing is needed, but it should also work with GPT-3.5.)
 
 Unlock the potential of GPT-4 with Mr. Ranedeer AI Tutor, a customizable prompt that delivers personalized learning experiences for users with diverse needs and interests.
 
